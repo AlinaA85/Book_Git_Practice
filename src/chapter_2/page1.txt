@@ -1,3 +1,5 @@
 today was a productivity day
 
 I did a lot of homework
+
+editor: Java is cool
